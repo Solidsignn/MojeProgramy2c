@@ -23,3 +23,25 @@
 //    Console.WriteLine("TAK");
 //else
 //    Console.WriteLine("NIE");
+//Z6
+//int a = int.Parse(Console.ReadLine());
+//int p = int.Parse(Console.ReadLine());
+//
+//if ((Math.Pow(a , p) - a) % p == 0)
+//{
+//    Console.WriteLine("tak");
+//}
+//else
+//{
+//    Console.WriteLine("nie");
+//}
+//Z7
+//int p = int.Parse(Console.ReadLine());
+//int k = int.Parse(Console.ReadLine());
+//int s = int.Parse(Console.ReadLine());
+//
+//if (3 * s >= (k - p))
+//    Console.WriteLine("Tak");
+//else
+//    Console.WriteLine("Nie");
+
